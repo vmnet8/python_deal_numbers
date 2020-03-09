@@ -8,6 +8,7 @@ pipeline {
             
             steps {
                 echo "will run python script"
+                echo "every one minute will  run python script"
             }
         }
 
